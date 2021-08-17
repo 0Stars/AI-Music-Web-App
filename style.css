@@ -62,3 +62,29 @@ body
       border-color: deepskyblue;
       border-radius: 0px;
   }
+  
+  #a
+  {
+      background-color: deepskyblue;
+      font-family: 'Lexend', sans-serif;
+      border-color: deepskyblue;
+      border-radius: 15px;
+  }
+  
+  #b
+  {
+      background-color: deepskyblue;
+      font-family: 'Lexend', sans-serif;
+      border-color: deepskyblue;
+      border-radius: 15px;
+  }
+  
+  #c
+  {
+      background-color: deepskyblue;
+      font-family: 'Lexend', sans-serif;
+      border-color: deepskyblue;
+      border-radius: 15px;
+  }
+  
+  
