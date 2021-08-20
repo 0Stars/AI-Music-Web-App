@@ -7,7 +7,9 @@
 .note
 {
   font-size: 15px;
-  color: black;
+  color: white;
+  margin-top: 10px;
+  margin-bottom: -10px;
 }
 body
 {
