@@ -3,13 +3,16 @@
   font-size: 23px;
   width: 100%;
   margin: 0px;
+  background-color: rgb(0, 0, 53);
+  border-color: rgb(0, 0, 53);
+  color: white;
+  background-color: rgb(0, 0, 53);
 }
 .note
 {
   font-size: 15px;
   color: white;
-  margin-top: 10px;
-  margin-bottom: -10px;
+  font-family: 'Lexend', sans-serif;
 }
 body
 {
@@ -29,6 +32,8 @@ body
   {
   	font-size: 23px;
   	margin: 15px;
+    background-color: rgb(0, 0, 53);
+    border-color: rgb(0, 0, 53);
   }
   .div_volume
   {
@@ -43,13 +48,15 @@ body
   {
   	font-size: 23px;
   	margin: 15px;
-    font-family: 'Lexend', sans-serif;
+    background-color: rgb(0, 0, 53);
+    border-color: rgb(0, 0, 53);
   }
    .play_button
   {
   	width: 130px;
   	font-size: 25px;
-    font-family: 'Lexend', sans-serif;
+    background-color: rgb(0, 0, 53);
+    border-color: rgb(0, 0, 53);
   }
     canvas 
   {
@@ -57,36 +64,7 @@ body
     border-radius:20px;
   }
 
-  #astra
+  body
   {
-      background-color: deepskyblue;
-      font-family: 'Lexend', sans-serif;
-      border-color: deepskyblue;
-      border-radius: 0px;
+    font-family: 'Lexend', sans-serif;
   }
-  
-  #a
-  {
-      background-color: deepskyblue;
-      font-family: 'Lexend', sans-serif;
-      border-color: deepskyblue;
-      border-radius: 15px;
-  }
-  
-  #b
-  {
-      background-color: deepskyblue;
-      font-family: 'Lexend', sans-serif;
-      border-color: deepskyblue;
-      border-radius: 15px;
-  }
-  
-  #c
-  {
-      background-color: deepskyblue;
-      font-family: 'Lexend', sans-serif;
-      border-color: deepskyblue;
-      border-radius: 15px;
-  }
-  
-  
